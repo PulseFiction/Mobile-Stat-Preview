@@ -24,9 +24,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
+Desktop Version
+![image](https://user-images.githubusercontent.com/87199411/125326088-922d1080-e339-11eb-995a-71580abda08e.png)
 
-![image](https://user-images.githubusercontent.com/87199411/125194644-215afb00-e24a-11eb-8f61-f7766643d83e.png)
 
+![image](https://user-images.githubusercontent.com/87199411/125326262-c1438200-e339-11eb-9711-007b01eeca9b.png)
 Mobile Version
 
 
@@ -44,6 +46,7 @@ Mobile Version
 ### What I learned
 
 Mobile first workflow - Easier to build with Mobile in mind first then work up to the Desktop version.
+Responsive Web Design - Allowing websites to be both desktop and mobile friendly.
 
 Using margin vs padding - Both were great for spacing but margin was giving me less trouble.
 
