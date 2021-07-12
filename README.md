@@ -28,7 +28,7 @@ Desktop Version
 ![image](https://user-images.githubusercontent.com/87199411/125326088-922d1080-e339-11eb-995a-71580abda08e.png)
 
 Mobile Version
-![image](https://user-images.githubusercontent.com/87199411/125326159-a4a74a00-e339-11eb-8e9f-c5afc3ef4987.png)
+![image](https://user-images.githubusercontent.com/87199411/125326262-c1438200-e339-11eb-9711-007b01eeca9b.png)
 
 
 
