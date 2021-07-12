@@ -27,9 +27,9 @@ Users should be able to:
 Desktop Version
 ![image](https://user-images.githubusercontent.com/87199411/125326088-922d1080-e339-11eb-995a-71580abda08e.png)
 
-Mobile Version
-![image](https://user-images.githubusercontent.com/87199411/125326262-c1438200-e339-11eb-9711-007b01eeca9b.png)
 
+![image](https://user-images.githubusercontent.com/87199411/125326262-c1438200-e339-11eb-9711-007b01eeca9b.png)
+Mobile Version
 
 
 ### Links
