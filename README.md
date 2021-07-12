@@ -24,8 +24,12 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
+Desktop Version
+![image](https://user-images.githubusercontent.com/87199411/125326088-922d1080-e339-11eb-995a-71580abda08e.png)
 
-![image](https://user-images.githubusercontent.com/87199411/125194644-215afb00-e24a-11eb-8f61-f7766643d83e.png) ![image](https://user-images.githubusercontent.com/87199411/125325863-585c0a00-e339-11eb-9ba7-d21e3231f7fe.png)
+Mobile Version
+![image](https://user-images.githubusercontent.com/87199411/125326159-a4a74a00-e339-11eb-8e9f-c5afc3ef4987.png)
+
 
 
 Mobile Version
