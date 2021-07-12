@@ -46,6 +46,7 @@ Mobile Version
 ### What I learned
 
 Mobile first workflow - Easier to build with Mobile in mind first then work up to the Desktop version.
+Responsive Web Design - Allowing websites to be both desktop and mobile friendly.
 
 Using margin vs padding - Both were great for spacing but margin was giving me less trouble.
 
